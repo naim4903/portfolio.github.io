@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.navbar-section .nav-link {
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    font-family: Roboto;
+}
